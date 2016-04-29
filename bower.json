@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "name": "test",
+=======
+    "name": "emre",
+>>>>>>> 189eadb314b1b8b8e8db8c5aa21d1eb9500cb5bf
     "version": "0.0.1",
     "dependencies": {
 
